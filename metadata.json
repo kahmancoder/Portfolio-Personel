@@ -1,0 +1,6 @@
+{
+  "name": "Portfolio de Oumar Ka",
+  "description": "Un portfolio personnel futuriste pour Oumar Ka, étudiant en Génie Logiciel et Système Informatique, avec des éléments 3D et des animations fluides.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["modern-ui", "3d-graphics", "animations"]
+}

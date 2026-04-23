@@ -19,3 +19,6 @@ View your app in AI Studio: https://ai.studio/apps/88f0558a-e866-44f3-b59a-782c6
 3. Run the app:
    `npm run dev`
 # Portfolio-Personel
+
+Naasi xalaat
+
